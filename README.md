@@ -1,4 +1,3 @@
-<!Doctype html>
 <head>
     <META charset="UTF-8">
        <title>MY FIRST PGAE</title>
